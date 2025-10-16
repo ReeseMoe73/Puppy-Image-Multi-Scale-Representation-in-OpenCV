@@ -1,2 +1,3 @@
 # Puppy-Image-Multi-Scale-Representation-in-OpenCV
 A compact OpenCV/Numpy lab that demonstrates image channel fundamentals: loading an image, visualizing per-channel intensity maps, reconstructing a color image from stacked grayscale panes, and manipulating channel order
+This asset operationalizes core computer-vision primitives in a single, pedagogical script. It provides an end-to-end workflow to 1) ingest a color image, 2) visualize its B, G, R channels side-by-side, 3) rebuild a color image from a “tiled” grayscale composite, and 4) re-order channels to explore color swapping effects. The implementation is intentionally minimal for rapid knowledge transfer and fast iteration in classroom, lab, and prototyping contexts.
